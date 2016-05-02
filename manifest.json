@@ -1,0 +1,67 @@
+{
+    "manifest_version": 2,
+    "theme": {
+        "images": {
+            "theme_frame": "images\/frame.png",
+            "theme_toolbar": "images\/toolbar.png",
+            "theme_tab_background": "images\/tab_background.png"
+        },
+        "colors": {
+            "frame": [
+                93,
+                90,
+                88
+            ],
+            "toolbar": [
+                80,
+                80,
+                80
+            ],
+            "tab_text": [
+                255,
+                255,
+                255
+            ],
+            "tab_background_text": [
+                254,
+                254,
+                254
+            ],
+            "bookmark_text": [
+                255,
+                255,
+                255
+            ],
+            "ntp_background": [
+                50,
+                50,
+                50
+            ],
+            "ntp_text": [
+                214,
+                214,
+                214
+            ],
+            "button_background": [
+                98,
+                98,
+                98,
+                1
+            ]
+        },
+        "tints": {
+            "buttons": [
+                0,
+                0,
+                0.81
+            ]
+        },
+        "properties": {
+            "ntp_background_alignment": "bottom",
+            "ntp_background_repeat": "no-repeat"
+        }
+    },
+    "name": "Incognito Mode",
+    "version": "0.1.0",
+    "description": "Incognito Mode Theme for Google Chrome by Kevin Zhang"
+}
